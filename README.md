@@ -4,7 +4,7 @@
 You know those friends that just get you? The friends for life? They may be hard to come by, but the Best Friend Finder is here to match you to the BFF's you've always wanted.
 
 ## INSTRUCTIONS
-* (Go to the survey to begin.)[https://agile-badlands-89886.herokuapp.com/]
+* [Go to the survey to begin.](https://agile-badlands-89886.herokuapp.com/)
 * Fill in your name and a link to an image of yourself
 * Answer 10 short questions as honestly as possible
 * Submit your answers and you'll be matched to the friend best for you
