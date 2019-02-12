@@ -3,7 +3,10 @@
 ## SUMMARY
 You know those friends that just get you? The friends for life? They may be hard to come by, but the Best Friend Finder is here to match you to the BFF's you've always wanted.
 
-* After answering 10 short questions, the Best Friend Finder will match your answers to others, to find you the perfect match.
+## INSTRUCTIONS
+* Fill in your name and a link to an image of yourself
+* Answer 10 short questions as honestly as possible
+* Submit your answers and you'll be matched to the friend best for you
 
 ## GOALS
 * To match users with a future best friend based on similarities.
