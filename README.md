@@ -1,4 +1,4 @@
-# B E S T | F R I E N D | F I N D E R
+# B E S T  F R I E N D  F I N D E R
 
 ## SUMMARY
 You know those friends that just get you? The friends for life? They may be hard to come by, but the Best Friend Finder is here to match you to the BFF's you've always wanted.
