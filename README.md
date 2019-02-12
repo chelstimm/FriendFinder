@@ -5,11 +5,8 @@ You know those friends that just get you? The friends for life? They may be hard
 
 ## INSTRUCTIONS
 * [Go to the survey to begin.](https://agile-badlands-89886.herokuapp.com/)
-![](app/assets/images/Screen Shot 2019-02-12 at 12.45.17 PM.png)
 * Fill in your name and a link to an image of yourself
-![](app/assets/images/Screen Shot 2019-02-12 at 12.45.00 PM.png)
 * Answer 10 short questions as honestly as possible
-![](app/assets/images/Screen Shot 2019-02-12 at 12.44.33 PM.png)
 * Submit your answers and you'll be matched to the friend best for you
 
 ## GOALS
